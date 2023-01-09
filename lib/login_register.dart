@@ -26,6 +26,7 @@ class LoginRegister extends StatelessWidget {
               'Create KazPay account with your phone number to get all the benefits',
               textAlign: TextAlign.center,
             ),
+
             const SizedBox(height: 30),
             const TextField(
               decoration: InputDecoration(

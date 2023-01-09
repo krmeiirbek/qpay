@@ -12,6 +12,7 @@ class Information extends StatelessWidget {
         title: const Text('Information'),
         centerTitle: true,
       ),
+
       body: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(

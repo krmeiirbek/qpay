@@ -11,5 +11,6 @@ class Final extends StatelessWidget {
         child: Image.asset('assets/f4.png',width: MediaQuery.of(context).size.width,height: MediaQuery.of(context).size.height,),
       ),
     );
+
   }
 }
